@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 15 23:38:33 2019
-
-@author: John-PC
-"""
 import sys
 import lsa
 import textrank

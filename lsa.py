@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 15 21:06:21 2019
-
-@author: Johnny Sellers
-"""
 import re
 import math
 import operator
